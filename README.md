@@ -3,7 +3,10 @@
 
 **Anubhav Kumar (ZDA24B034) · Rohan Saha (ZDA24B009)**
 Foundations of Machine Learning — IIT Madras Zanzibar · June 2026
+## Quick Links
 
+- 🎬 [Work Demonstration & Final Review Presentation](WORK_DEMONSTRATION_AND_FINAL_REVIEW_PRESENTATION.md)
+- 📄 [Final Report & Conclusions](Final_Report_Conclusions.pdf)
 ---
 
 ## Project Summary
